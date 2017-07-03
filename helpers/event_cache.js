@@ -9,7 +9,7 @@
       request volume, the efficacy of this cache becomes limited.
 */
 
-class EventCache {
+class EventCache { //test
 
   constructor(ttl) {
     this.last = null;
